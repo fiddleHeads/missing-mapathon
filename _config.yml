@@ -1,0 +1,9 @@
+title: Missing Mapathon
+remote_theme: ubc-library-rc/rc-workshop-template
+search_enabled: false
+github_repo_url: "https://github.com/fiddleHeads/missing-mapathon/"
+
+# license information for workshop content
+license_name: "Creative Commons Attribution 4.0 International License"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
