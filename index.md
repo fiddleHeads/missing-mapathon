@@ -10,4 +10,4 @@ nav_order: 1
 
 Missing Maps is a collaborative project in which volunteers help map areas around the world missing from or underrepresented on maps in order to help in disaster relief efforts. 
 
-![missMapsWorkflow.jpg](
+![missMapsWorkflow.jpg](https://raw.githubusercontent.com/fiddleHeads/missing-mapathon/main/missMapWorkflow.jpg)
