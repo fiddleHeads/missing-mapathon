@@ -24,3 +24,7 @@ We use [OpenStreetMap](https://www.openstreetmap.org/) because all data and unde
 OpenStreetMap is also dedicated to humanitarian mapping and maintains a platform and task manager allowing contributors from anywhere in the world to select a humanitarian mapping task to work toward fulfilling specific mapping needs in a particular area. This is called Humanitarian OpenStreetMap, or [HOT OSM](https://www.hotosm.org/) for short.
 
 
+#### Why is volunteer humanitarian mapping important?
+
+Let's watch this [HOTOSM video](https://www.youtube.com/watch?v=fF_Ai5GBASc) for some context.
+
