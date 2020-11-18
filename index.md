@@ -16,4 +16,5 @@ Missing Maps is a collaborative project in which volunteers help map areas aroun
 
 - Introduction to Missing Maps
 - Sign up for a Humanitarian OpenStreet Map account
+- Mapping training
 - Start mapping!
